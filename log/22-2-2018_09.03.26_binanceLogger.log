@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-02-22T08:03:26.286845400Z</date>
+  <millis>1519286606286</millis>
+  <nanos>845400</nanos>
+  <sequence>0</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Program booted up</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.094837700Z</date>
+  <millis>1519286607094</millis>
+  <nanos>837700</nanos>
+  <sequence>1</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>Hello</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.210513700Z</date>
+  <millis>1519286607210</millis>
+  <nanos>513700</nanos>
+  <sequence>2</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>The trader crashed</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.214513Z</date>
+  <millis>1519286607214</millis>
+  <nanos>513000</nanos>
+  <sequence>3</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>Traceback (most recent call last):</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.214513Z</date>
+  <millis>1519286607214</millis>
+  <nanos>513000</nanos>
+  <sequence>4</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>  File "python\test.py", line 10, in &lt;module&gt;</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.214513Z</date>
+  <millis>1519286607214</millis>
+  <nanos>513000</nanos>
+  <sequence>5</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>    repr(x)</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.214513Z</date>
+  <millis>1519286607214</millis>
+  <nanos>513000</nanos>
+  <sequence>6</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>MemoryError: stack overflow</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:27.946542100Z</date>
+  <millis>1519286607946</millis>
+  <nanos>542100</nanos>
+  <sequence>7</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>Hello</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:28.078539Z</date>
+  <millis>1519286608078</millis>
+  <nanos>539000</nanos>
+  <sequence>8</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>The trader crashed</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:28.078539Z</date>
+  <millis>1519286608078</millis>
+  <nanos>539000</nanos>
+  <sequence>9</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>Traceback (most recent call last):</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:28.078539Z</date>
+  <millis>1519286608078</millis>
+  <nanos>539000</nanos>
+  <sequence>10</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>  File "python\test.py", line 10, in &lt;module&gt;</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:28.078539Z</date>
+  <millis>1519286608078</millis>
+  <nanos>539000</nanos>
+  <sequence>11</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>    repr(x)</message>
+</record>
+<record>
+  <date>2018-02-22T08:03:28.078539Z</date>
+  <millis>1519286608078</millis>
+  <nanos>539000</nanos>
+  <sequence>12</sequence>
+  <logger>BinanceTrader</logger>
+  <level>INFO</level>
+  <class>core.Main</class>
+  <method>startScript</method>
+  <thread>1</thread>
+  <message>MemoryError: stack overflow</message>
+</record>

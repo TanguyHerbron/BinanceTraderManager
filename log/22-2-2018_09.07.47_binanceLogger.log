@@ -1,0 +1,18 @@
+2018-02-22 09:07:47 INFOS core.Main main Program booted up
+2018-02-22 09:07:48 INFOS core.Main startScript The trader crashed
+2018-02-22 09:07:48 INFOS core.Main startScript Traceback (most recent call last):
+2018-02-22 09:07:48 INFOS core.Main startScript   File "python\test.py", line 10, in <module>
+2018-02-22 09:07:48 INFOS core.Main startScript     repr(x)
+2018-02-22 09:07:48 INFOS core.Main startScript MemoryError: stack overflow
+2018-02-22 09:07:49 INFOS core.Main startScript Hello
+2018-02-22 09:07:49 INFOS core.Main startScript Hello
+2018-02-22 09:07:49 INFOS core.Main startScript The trader crashed
+2018-02-22 09:07:49 INFOS core.Main startScript Traceback (most recent call last):
+2018-02-22 09:07:49 INFOS core.Main startScript   File "python\test.py", line 10, in <module>
+2018-02-22 09:07:49 INFOS core.Main startScript     repr(x)
+2018-02-22 09:07:49 INFOS core.Main startScript MemoryError: stack overflow
+2018-02-22 09:07:50 INFOS core.Main startScript Hello
+2018-02-22 09:07:50 INFOS core.Main startScript Hello
+2018-02-22 09:07:50 INFOS core.Main startScript Hello
+2018-02-22 09:07:50 INFOS core.Main startScript Hello
+2018-02-22 09:07:50 INFOS core.Main startScript Hello

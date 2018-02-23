@@ -1,0 +1,30 @@
+2018-02-23 13:41:41 INFOS manager.Main main Program booted up
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine Traceback (most recent call last):
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine   File "C:\Users\Guitoune\Desktop\test.py", line 10, in <module>
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine     repr(x)
+2018-02-23 13:41:42 INFOS manager.Main$1 processLine MemoryError: stack overflow
+2018-02-23 13:41:42 INFOS manager.Main startScript Script closed or crashed. Error : 1
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine Traceback (most recent call last):
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine   File "C:\Users\Guitoune\Desktop\test.py", line 10, in <module>
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine     repr(x)
+2018-02-23 13:41:43 INFOS manager.Main$1 processLine MemoryError: stack overflow
+2018-02-23 13:41:43 INFOS manager.Main startScript Script closed or crashed. Error : 1
+2018-02-23 13:41:44 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:44 INFOS manager.Main$1 processLine Traceback (most recent call last):
+2018-02-23 13:41:44 INFOS manager.Main$1 processLine   File "C:\Users\Guitoune\Desktop\test.py", line 10, in <module>
+2018-02-23 13:41:44 INFOS manager.Main$1 processLine     repr(x)
+2018-02-23 13:41:44 INFOS manager.Main$1 processLine MemoryError: stack overflow
+2018-02-23 13:41:44 INFOS manager.Main startScript Script closed or crashed. Error : 1
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine Hello
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine Traceback (most recent call last):
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine   File "C:\Users\Guitoune\Desktop\test.py", line 10, in <module>
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine     repr(x)
+2018-02-23 13:41:45 INFOS manager.Main$1 processLine MemoryError: stack overflow
