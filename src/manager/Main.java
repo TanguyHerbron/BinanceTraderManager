@@ -93,7 +93,8 @@ public class Main {
 		try {
             //Process p = Runtime.getRuntime().exec("C:\\Users\\Guitoune\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe C:\\Users\\Guitoune\\Desktop\\test.py");
 			//Process p = Runtime.getRuntime().exec("C:\\Users\\Guitoune\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe python\\trader.py");
-			Process p = Runtime.getRuntime().exec("python trader.py --symbol VENETH --profit 0.6 --stop_loss 0 --amount 0.04830275");
+			//Process p = Runtime.getRuntime().exec("python trader.py --symbol VENETH --profit 0.6 --stop_loss 0 --amount 0.04830275");
+			Process p = Runtime.getRuntime().exec("./trader.sh");
 			
 			BufferedReader stdInput = new BufferedReader(new InputStreamReader(p.getInputStream()));
 			
