@@ -127,6 +127,7 @@ public class Main {
 	            	}
 	            	
 	            	toReturn = true;
+	            	exitValue = 1;
 	            }
 			}
 		} catch (IOException e) {
