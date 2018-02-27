@@ -19,6 +19,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		String startCommand = "";
 		Logger logger = Logger.getLogger("BinanceTrader");	
 	
 		logger.setUseParentHandlers(false);
@@ -38,9 +39,14 @@ public class Main {
 			System.out.println("Program booted up");
 			logger.info("Program booted up");
 			
+			for(int i = 0; i < args.length; i++)
+			{
+				startCommand += args[i] + " ";
+			}
+			
 			while(val != 0)
 			{
-				val = startScript(logger, args[0]);
+				val = startScript(logger, startCommand);
 			}
 			
 			/*while(val)
@@ -60,6 +66,8 @@ public class Main {
 		int exitValue = 0;
 		
 		String s = null;
+		
+		System.out.println(scriptCommand);
 
 		/*try {
 			//exitValue = new ProcessExecutor().command("python", "trader.py --symbol VENETH --profit 0.6 --stop_loss 0 --amount 0.04830275")
@@ -119,6 +127,7 @@ public class Main {
 	            	}
 	            	
 	            	toReturn = true;
+	            	exitValue = 1;
 	            }
 			}
 		} catch (IOException e) {
